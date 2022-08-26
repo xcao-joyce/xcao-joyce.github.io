@@ -20,7 +20,8 @@ description: "Brown University"
 ###############################################
 
 navbar-links:
-  About Me: "My CV"
+  About Me: 
+    - CV: "xcao_cv_0822.pdf"
   Resources:
     - My Department: "https://www.brown.edu/academics/sociology/"
     - My Demography Training Center: "https://www.brown.edu/academics/population-studies/"
