@@ -50,9 +50,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "xinyan_cao1@brown.com"
-  facebook: "https://www.facebook.com/xinyan.joyce.cao"
-  twitter: "https://twitter.com/JoyceCao16"
-  linkedin: "https://www.linkedin.com/in/xinyan-cao-64b3981b4/"
+  facebook: xinyan.joyce.cao
+  twitter: JoyceCao16
+  linkedin: xinyan-cao-64b3981b4
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
