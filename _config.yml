@@ -21,10 +21,10 @@ description: "Brown University"
 
 navbar-links:
   CV: "xcao_cv_0123.pdf"
-  Resources:
-    - My Department: "https://www.brown.edu/academics/sociology/"
-    - My Demography Training Center: "https://www.brown.edu/academics/population-studies/"
-  My Hometown: "https://en.wikipedia.org/wiki/Chongqing"
+  My Affiliations:
+    - Brown Sociology: "https://www.brown.edu/academics/sociology/"
+    - Brown PSTC: "https://www.brown.edu/academics/population-studies/"
+  My Hometown Chongqing: "https://en.wikipedia.org/wiki/Chongqing"
 
 ################
 # --- Logo --- #
